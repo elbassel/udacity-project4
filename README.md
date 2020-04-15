@@ -1,4 +1,4 @@
-<img src="[![elbassel](https://circleci.com/gh/elbassel/udacity-project4.svg?style=svg)](www.google.com)" alt="CircleCi Badge">
+<img src="https://circleci.com/gh/elbassel/udacity-project4/tree/:branch.png?circle-token=3942e9e29c084b7eeb79d5bc1ff2375840a02c13" alt="CircleCi Badge">
 
 ## Project Overview
 

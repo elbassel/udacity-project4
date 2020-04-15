@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+<img src="[![elbassel](https://circleci.com/gh/elbassel/udacity-project4.svg?style=svg)](www.google.com)" alt="CircleCi Badge">
 
 ## Project Overview
 

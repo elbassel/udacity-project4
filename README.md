@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/elbassel/udacity-project4.svg?style=svg)](https://www.google.com)
+[![CircleCI](https://circleci.com/gh/elbassel/udacity-project4.svg?style=svg)](https://circleci.com/gh/elbassel/udacity-project4)
 
 ## Project Overview
 
